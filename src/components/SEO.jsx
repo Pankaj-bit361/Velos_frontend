@@ -1,10 +1,10 @@
 import { Helmet } from 'react-helmet-async';
 
 const SEO = ({ title, description, image, url }) => {
-  const siteTitle = "Nexa";
-  const defaultDescription = "Create stunning web and mobile applications with Nexa. Use AI-powered tools to build, deploy, and scale your next project faster.";
+  const siteTitle = "VelosApps";
+  const defaultDescription = "Create stunning web and mobile applications with VelosApps. Use AI-powered tools to build, deploy, and scale your next project faster.";
   const defaultImage = "/og-image.png";
-  const siteUrl = "https://nexa.dev";
+  const siteUrl = "https://velosapps.com";
 
   return (
     <Helmet>

@@ -100,10 +100,10 @@ const Sidebar = () => {
             {/* Branding */}
             <div className="p-4 border-b border-gray-750/30">
               <div className="flex items-center space-x-3">
-                <FaCode className="text-2xl text-neon-green" />
+                <FaCode className="text-2xl text\-neon-green" />
                 {/* <img src={logo} />  */}
                 <span className="text-xl font-bold bg-gradient-to-r from-neon-green to-neon-blue bg-clip-text text-transparent">
-                  Nexa
+                  VelosApps
                 </span>
               </div>
             </div>

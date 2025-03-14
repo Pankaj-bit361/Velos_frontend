@@ -18,7 +18,7 @@ const Login = () => {
           {/* <div className="flex items-center space-x-2">
             <FaCode className="text-neon-green text-3xl" />
             <span className="text-3xl font-bold bg-gradient-to-r from-neon-green to-neon-blue bg-clip-text text-transparent">
-              Nexa
+              VelosApps
             </span>
           </div> */}
         </div>
@@ -28,7 +28,7 @@ const Login = () => {
             Build Your Next App
           </h1>
           <p className="text-gray-400 text-lg">
-            Join thousands of developers building amazing apps with Nexa
+            Join thousands of developers building amazing apps with VelosApps
           </p>
           
           <div className="grid grid-cols-2 gap-4 mt-8">
@@ -47,7 +47,7 @@ const Login = () => {
         </div>
 
         <div className="relative z-10 text-sm text-gray-400">
-          © 2024 Nexa. All rights reserved.
+          © 2025 VelosApps. All rights reserved.
         </div>
       </motion.div>
 

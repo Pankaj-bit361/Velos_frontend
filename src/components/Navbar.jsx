@@ -18,7 +18,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <FaCode className="text-neon-green text-2xl" />
             <span className="text-2xl font-bold bg-gradient-to-r from-neon-green to-neon-blue bg-clip-text text-transparent">
-              Nexa
+            VelosApps
             </span>
           </Link>
 

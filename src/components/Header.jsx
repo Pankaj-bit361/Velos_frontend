@@ -12,7 +12,7 @@ const Header = () => {
         <div className="flex items-center">
           <FaCode className="text-purple-500 text-2xl mr-2" />
           <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent">
-            Nexa
+          VelosApps
           </h1>
         </div>
       </div>

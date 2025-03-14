@@ -116,7 +116,7 @@ const Docs = () => {
             Documentation
           </motion.h1>
           <p className="text-gray-400 text-lg mb-8">
-            Everything you need to build amazing applications with Nexa
+            Everything you need to build amazing applications with VelosApps
           </p>
           
           <div className="relative max-w-2xl mx-auto">

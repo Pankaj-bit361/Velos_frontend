@@ -10,7 +10,7 @@ const Home = () => {
     <main className="pt-20">
       <SEO
         title="Build Amazing Apps"
-        description="Create stunning web and mobile applications with Nexa. AI-powered tools to build, deploy, and scale your next project faster."
+        description="Create stunning web and mobile applications with VelosApps. AI-powered tools to build, deploy, and scale your next project faster."
       />
       <Hero />
       <CodeEditor />
